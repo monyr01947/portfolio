@@ -1,0 +1,42 @@
+.accordion__button {
+  background-color: #f4f4f4;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: unset !important;
+  text-align: left;
+  border: none;
+}
+.progress-bar-rect-wrap-container {
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.progress-bar {
+  margin-bottom: 10px;
+}
+.skill-right h1 {
+  font-size: 18px;
+}
+.addRectAnimate {
+  animation: rectGrow 1.5s 0.5s forwards ease-out;
+  background-color: #4d90fe !important;
+}
+.hover-wrap a {
+  color: #fff;
+  font-size: 28px;
+  margin: 5px;
+  position: relative;
+  top: -6px;
+}
+.hero-social span a {
+  display: inline-block;
+  background: #f5f5f5;
+  border-radius: 5px;
+  font-size: 30px;
+  padding: 2px 10px;
+  height: 46px;
+  color: #4d90fe;
+  box-shadow: 0px 0px 5px 1px #bbc;
+  margin: 5px;
+}
